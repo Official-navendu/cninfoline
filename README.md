@@ -174,13 +174,3 @@ It offers:
 5. Push to GitHub
 
 Done! 🎉
-
----
-
-If you also want:
-📌 A **TOC (Table of Contents)**  
-📌 **Screenshots** embedded in README  
-📌 **Badges** for build / version / license  
-
-Just say “add screenshots & badges” and I’ll generate that too.
-::contentReference[oaicite:1]{index=1}
